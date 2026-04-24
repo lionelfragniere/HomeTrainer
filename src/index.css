@@ -52,7 +52,8 @@ body {
 .app-container {
   max-width: 500px;
   margin: 0 auto;
-  min-height: 100vh;
+  height: 100vh;
+  height: 100dvh;
   background-color: var(--bg-base);
   display: flex;
   flex-direction: column;
